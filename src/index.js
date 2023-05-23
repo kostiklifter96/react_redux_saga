@@ -7,7 +7,7 @@ import { store } from "./store/store";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-    <BrowserRouter basename='/'>
+    <BrowserRouter basename='/react_redux_saga'>
         <Provider store={store}>
             <App />
         </Provider>
