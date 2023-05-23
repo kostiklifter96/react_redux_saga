@@ -1,6 +1,7 @@
 {
     "name": "react_bootstrap_saga",
     "version": "0.1.0",
+    "homepage": "https://kostiklifter96.github.io/react_redux_saga",
     "private": true,
     "dependencies": {
         "@reduxjs/toolkit": "^1.9.5",

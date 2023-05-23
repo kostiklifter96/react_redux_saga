@@ -7,7 +7,7 @@ import { store } from "./store/store";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-    <BrowserRouter basename='/Test-React-Bootstrap-Saga'>
+    <BrowserRouter basename='/'>
         <Provider store={store}>
             <App />
         </Provider>
