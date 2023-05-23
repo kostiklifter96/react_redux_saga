@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react_redux_saga/static/js/main.e4611438.js",
+    "main.js": "/react_redux_saga/static/js/main.ff5fbbdb.js",
     "index.html": "/react_redux_saga/index.html",
-    "main.e4611438.js.map": "/react_redux_saga/static/js/main.e4611438.js.map"
+    "main.ff5fbbdb.js.map": "/react_redux_saga/static/js/main.ff5fbbdb.js.map"
   },
   "entrypoints": [
-    "static/js/main.e4611438.js"
+    "static/js/main.ff5fbbdb.js"
   ]
 }
